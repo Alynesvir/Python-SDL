@@ -6,10 +6,10 @@ if 5 > 2:
 ＃ You have to use the same number of spaces in the same block of code, otherwise Python will give you an error
 # Syntax Error:
 if 5 > 2:
- print("Five is greater than two!")
+print("Five is greater than two!") # note that there is no indentation
         print("Five is greater than two!")
+        
 ＃ Variables in Python:
-
 x = 5
 y = "Hello, World!"      
 ＃ comments start with a hashtag and can be placed at the end of a line. Python will ignore the rest of the line. 
